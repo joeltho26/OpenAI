@@ -18,3 +18,5 @@ numpy
 matplotlib
 requests
 pymysql
+psycopg-binary
+psycopg2-binary
